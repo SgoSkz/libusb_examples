@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I/usr/include/libusb-1.0",
+      "-o",
+      "crlsusb",
+      "./src/main.c"
+    ],
+    "directory": "/home/sean/Downloads/git/libusb_examples/crude_lsusb",
+    "file": "/home/sean/Downloads/git/libusb_examples/crude_lsusb/src/main.c",
+    "output": "/home/sean/Downloads/git/libusb_examples/crude_lsusb/crlsusb"
+  }
+]
